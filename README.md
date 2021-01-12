@@ -5,9 +5,7 @@ IT INCLUDES AUTHENTICATION,PROFILES AND FORUM POSTS.OUR WEB APPLICATION IS VERY 
 <a href="https://youtu.be/w42kKqel4mY" target="_blank"><img src="client/webtech.png"
 alt="IMAGE ALT TEXT HERE" width="240px" height="180px" border="10" /></a>
  </p>
-<p align='center'>
-<a href="https://docs.google.com/presentation/d/1gpMqfSkytFNeL5g5jsG_lx3Geq3P3meoCIkxzkYftIk/edit#slide=id.gadc51470a7_0_62" target="_blank">View our presentation</a>
- </p>
+
 <h2><i>Login Page</i></h2><br/>
 <p align="center">
     <img src="client/login.png" />
